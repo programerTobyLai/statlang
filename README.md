@@ -1,11 +1,11 @@
 # Statlang
-> statlang是一种轻量的编程语言，大小<20MB
+> statlang是一种**跨平台**轻量的编程语言，大小<20MB
 
 文档地址：[点这里](https://docs.statlang.ml)
 
-downloads目录或者release里面有安装程序和绿色版zip，
+downloads目录或者release里面有deb,exe,zip
 
-安装好后请把路径添加到环境变量内使用
+安装exe/zip好后请把路径添加到环境变量内使用，deb直接终端输入statlang就可以
 
 statlang的语言后缀：.statlng
 
