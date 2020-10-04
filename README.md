@@ -14,3 +14,5 @@ statlang的语言后缀：.statlng
 statlang --run <文件名>
 ```
 如果你直接输入`statlang`,你会进入交互界面
+
+# 10/4大更新！语法更改！
